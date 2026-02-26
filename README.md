@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 CS student at McGill | AI • Systems  <br>🚀 Looking to collaborate on AI/ML, fintech, or systems projects   <br>📚 Currently diving deeper into algorithms, distributed systems & fintech
+👩🏻‍💻 CS student at McGill | AI • Systems  <br>🚀 Looking to collaborate on AI/ML, fintech, or systems projects   <br>📚 Currently diving deeper into algorithms, distributed systems & data analysis
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nehirozsunar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehirozsunar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neozsunar@gmail.com)
